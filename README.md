@@ -1,4 +1,4 @@
-# py_Pdf_File_Separator
+# Pdf_File_Separator (Python)
 
 This python code will separate you pdf file pages into singular pages.
 
