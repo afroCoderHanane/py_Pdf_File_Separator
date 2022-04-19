@@ -16,6 +16,6 @@ pip install pypdf2==1.25.0
 In terminal 
 
 ```
-python3 separate_pdf,py
+python3 separate_pdf.py
 
 ```
